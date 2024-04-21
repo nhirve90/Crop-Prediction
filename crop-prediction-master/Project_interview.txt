@@ -1,0 +1,30 @@
+Library Used In project
+* Pandas is a Python library used for working with data sets. 
+* NumPy can be used to perform a wide variety of mathematical operations on 	arrays. 
+* Torch is an open source ML library used for creating deep neural networks 
+	Deep neural networks. A deep neural network (DNN) is an artificial neural network 
+      (ANN) with multiple layers between the input and output 	layers.
+ 	artificial neural network is an interconnected group of nodes, inspired by a 
+      simplification of neurons in a brain.
+* Python Imaging Library is a free and open-source additional library for the Python 
+   programming language that adds support for opening, manipulating, and saving many 
+   different image file formats. 
+* Flask is a web framework. This means flask provides you with tools, libraries and 
+  technologies that allow you to build a web application.
+
+* Software details
+	1 Operating System 64bit Windows 10 and on words
+	2 Technology Python
+	3 IDE Spyder
+	4 Database DBSqlit
+
+* Dataset: 
+	This dataset was built by augmenting datasets of rainfall, climate and fertilizer data 
+	available for India.
+	Data fields -
+	 N - ratio of Nitrogen content in soil
+	 P - ratio of Phosphorus content in soil
+	 K - ratio of Potassium content in soil
+	 temperature - temperature in degree Celsius
+	 humidity - relative humidity in %
+       ph - ph value of the soi
